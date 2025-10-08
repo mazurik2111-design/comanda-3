@@ -31,3 +31,7 @@ justify-content:flex-start;
 }
 
 a{ color:inherit }
+.footer{
+  position: relative;
+  text-align: center;
+}
